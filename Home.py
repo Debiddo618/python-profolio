@@ -12,11 +12,15 @@ with col1:
 
 with col2:
     st.title("David Zheng")
-    content="""
-    Hi, I am David. I graduated in 2021 with a Bachelor of Science in Applied Mathematics. I am currently taking online classes and working on building my profolio.
-    """
+    content="""Hi, I am David. I graduated in 2021 with a Bachelor of Science in Applied Mathematics from the 
+    University of Maryland, College Park. I am currently taking online classes and working on building my profolio. ( 
+    This is one of my favorite photos when I was traveling in Japan with my classmates from high school in 2019. I am 
+    the guy in the middle wearing the dark blue yukata.)"""
     st.info(content)
-st.write("Below you can find some of the apps I have built in Python. Feel free to contact me!")
+st.write("Below you can find some of the apps I have built in Python. Note: Some of these apps are just fillers and "
+         "are not implemented. They are used to fill in space and for the visual appearance of the webpage. Clicking "
+         "on the source of filler projects will redirect you to https://pythonhow.com. The "
+         "Contact Us page is full functional. Feel free to contact me!")
 
 col3,empty_col, col4 = st.columns([1.5,.5,1.5])
 
