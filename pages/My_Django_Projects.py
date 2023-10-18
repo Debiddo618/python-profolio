@@ -14,7 +14,7 @@ with col2:
     st.title("My Django Projects")
     content="""This is a webpage showcasing some of the django projects that I have worked on. Almost all of these 
     projects are created using Django, Bootstrap5, JavaScript, HTML, CSS, and Jinja2. For the backend database, 
-    I used the default sqlite3"""
+    I used the default sqlite3."""
     st.info(content)
 st.write("Note: I am only showing a picture of the homepage of the website and sharing the source code. Only some of "
          "these projects are deployed. If the projects are deployed, I might add a link to the website in the future.")
