@@ -16,8 +16,6 @@ with col2:
     projects are created using Django, Bootstrap5, JavaScript, HTML, CSS, and Jinja2. For the backend database, 
     I used the default sqlite3."""
     st.info(content)
-st.write("Note: I am only showing a picture of the homepage of the website and sharing the source code. Only some of "
-         "these projects are deployed. If the projects are deployed, I might add a link to the website in the future.")
 
 col3,empty_col, col4 = st.columns([1.5,.5,1.5])
 
