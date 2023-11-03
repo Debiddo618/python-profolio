@@ -20,14 +20,14 @@ with col2:
 col3,empty_col, col4 = st.columns([1.5,.5,1.5])
 
 with col3:
-    for index, row in df[:3].iterrows():
+    for index, row in df[:4].iterrows():
         st.header(row["title"])
         st.write(row["description"])
         st.image("django_images/" + row["image"])
         st.write("[Source Code]({})".format(row["url"]))
 
 with col4:
-    for index, row in df[3:].iterrows():
+    for index, row in df[4:].iterrows():
         st.header(row["title"])
         st.write(row["description"])
         st.image("django_images/" + row["image"])
