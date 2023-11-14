@@ -6,3 +6,4 @@ Link Scraper; Takes a URL from user input and generate a list of links that was 
 Calorie Tracker; Allow users to add food to their daily diet, calculate their daily intake and generate a graph representation of their macronutrient consumption;https://github.com/Debiddo618/App5-Django_Calorie_Tracker.git;5.png
 Pandagram; A social media web application. Allow user creation and profile editing. Users can post, comment, and like any post;https://github.com/Debiddo618/app6-PandagramSocial.git;6.png
 Expense Tracker; An expense tracker that allows CRUD operations. Statistic on daily, weekly, monthly expense by category. Also, generate a pie chart and line chart based on category;https://github.com/Debiddo618/app7-ExpenseTracker.git;7.png
+Chatroom; An online chatroom where users can create their own room and chat about any topics. Include Django restapi, custom theme integration, and user customization;https://github.com/Debiddo618/django-chatroom.git;8.png
