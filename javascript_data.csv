@@ -1,3 +1,5 @@
 title;description;url;image
 Movie Booking; User can pick a movie and select seats that are available. Amount of selected seats and price will update accordindly;https://debiddo618.github.io/movie-booking-javascript/;1.png
 Form Validator; Basic form that validates user input. Checks input length and type and shows error if invalid;https://debiddo618.github.io/form-validator-javascript/;2.png
+Exchange Rate; Currency exchange rate using fetch api and exchange rate api;https://debiddo618.github.io/exchange-rate-javascript/;3.png
+Custom Video Player; Custom video player made with font awesome icons;https://debiddo618.github.io/custom-video-player-javascript/;4.png
